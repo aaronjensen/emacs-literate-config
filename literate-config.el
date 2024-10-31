@@ -1,10 +1,11 @@
-;;; literate-config.el --- Literate Emacs Config Using Org -*- lexical-binding:t -*-
+;;; literate-config.el --- Literate Config Using Org -*- lexical-binding:t -*-
 
 ;; Copyright (C) 2024 Aaron Jensen
 
 ;; Author: Aaron Jensen <aaronjensen@gmail.com>
-;; Keywords: org-mode
 ;; Version: 0.0.1
+;; URL: https://github.com/aaronjensen/emacs-literate-config
+;; Package-Requires: ((emacs "29.1"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
