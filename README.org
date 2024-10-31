@@ -1,0 +1,6 @@
+#+title: Literate Config
+
+* Summary
+
+Package to allow you to use an org file for your Emacs config. =emacs-lisp= source
+blocks will be compiled into an Emacs Lisp config file and loaded.
