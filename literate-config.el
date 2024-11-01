@@ -95,7 +95,7 @@
   (add-hook 'after-save-hook 'literate-config-after-save-hook))
 
 ;;;###autoload
-(defun literate-config-start ()
+(defun literate-config-init ()
   "Compile, install hooks, and load the config."
   (literate-config-ensure-compiled)
   (literate-config-add-after-save-hook)
